@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/C_Program.dir/calculate_positions.c.o CMakeFiles/C_Program.dir/insert_observers.c.o CMakeFiles/C_Program.dir/insert_sightings.c.o CMakeFiles/C_Program.dir/main.c.o CMakeFiles/C_Program.dir/print_observers.c.o CMakeFiles/C_Program.dir/print_sightings.c.o  -o C_Program -lm 

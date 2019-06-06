@@ -1,0 +1,62 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sam/Documents/CompSci/Year2/Semester1/CS23820/Assignment Export/C_Program/calculate_positions.c
+functions.h
+/home/sam/Documents/CompSci/Year2/Semester1/CS23820/Assignment Export/C_Program/functions.h
+stdlib.h
+-
+math.h
+-
+
+/home/sam/Documents/CompSci/Year2/Semester1/CS23820/Assignment Export/C_Program/functions.h
+stdio.h
+-
+
+/home/sam/Documents/CompSci/Year2/Semester1/CS23820/Assignment Export/C_Program/insert_observers.c
+functions.h
+/home/sam/Documents/CompSci/Year2/Semester1/CS23820/Assignment Export/C_Program/functions.h
+stdlib.h
+-
+shared.h
+/home/sam/Documents/CompSci/Year2/Semester1/CS23820/Assignment Export/C_Program/shared.h
+
+/home/sam/Documents/CompSci/Year2/Semester1/CS23820/Assignment Export/C_Program/insert_sightings.c
+functions.h
+/home/sam/Documents/CompSci/Year2/Semester1/CS23820/Assignment Export/C_Program/functions.h
+shared.h
+/home/sam/Documents/CompSci/Year2/Semester1/CS23820/Assignment Export/C_Program/shared.h
+stdlib.h
+-
+
+/home/sam/Documents/CompSci/Year2/Semester1/CS23820/Assignment Export/C_Program/main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+functions.h
+/home/sam/Documents/CompSci/Year2/Semester1/CS23820/Assignment Export/C_Program/functions.h
+shared.h
+/home/sam/Documents/CompSci/Year2/Semester1/CS23820/Assignment Export/C_Program/shared.h
+
+/home/sam/Documents/CompSci/Year2/Semester1/CS23820/Assignment Export/C_Program/print_observers.c
+functions.h
+/home/sam/Documents/CompSci/Year2/Semester1/CS23820/Assignment Export/C_Program/functions.h
+shared.h
+/home/sam/Documents/CompSci/Year2/Semester1/CS23820/Assignment Export/C_Program/shared.h
+
+/home/sam/Documents/CompSci/Year2/Semester1/CS23820/Assignment Export/C_Program/print_sightings.c
+functions.h
+/home/sam/Documents/CompSci/Year2/Semester1/CS23820/Assignment Export/C_Program/functions.h
+shared.h
+/home/sam/Documents/CompSci/Year2/Semester1/CS23820/Assignment Export/C_Program/shared.h
+
+/home/sam/Documents/CompSci/Year2/Semester1/CS23820/Assignment Export/C_Program/shared.h
+

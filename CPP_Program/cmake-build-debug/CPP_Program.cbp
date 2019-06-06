@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="CPP_Program"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/sam/Documents/CompSci/Year2/Semester1/CS23820/Assignment Export/CPP_Program/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/sam/Documents/CompSci/Year2/Semester1/CS23820/Assignment\ Export/CPP_Program/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/sam/Documents/CompSci/Year2/Semester1/CS23820/Assignment\ Export/CPP_Program/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/sam/Documents/CompSci/Year2/Semester1/CS23820/Assignment\ Export/CPP_Program/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/sam/Documents/CompSci/Year2/Semester1/CS23820/Assignment\ Export/CPP_Program/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/sam/Documents/CompSci/Year2/Semester1/CS23820/Assignment Export/CPP_Program/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/sam/Documents/CompSci/Year2/Semester1/CS23820/Assignment\ Export/CPP_Program/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/sam/Documents/CompSci/Year2/Semester1/CS23820/Assignment\ Export/CPP_Program/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/sam/Documents/CompSci/Year2/Semester1/CS23820/Assignment\ Export/CPP_Program/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/sam/Documents/CompSci/Year2/Semester1/CS23820/Assignment\ Export/CPP_Program/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/sam/Documents/CompSci/Year2/Semester1/CS23820/Assignment Export/CPP_Program/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/sam/Documents/CompSci/Year2/Semester1/CS23820/Assignment\ Export/CPP_Program/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/sam/Documents/CompSci/Year2/Semester1/CS23820/Assignment\ Export/CPP_Program/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/sam/Documents/CompSci/Year2/Semester1/CS23820/Assignment\ Export/CPP_Program/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/sam/Documents/CompSci/Year2/Semester1/CS23820/Assignment\ Export/CPP_Program/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CPP_Program">
+				<Option output="/home/sam/Documents/CompSci/Year2/Semester1/CS23820/Assignment Export/CPP_Program/cmake-build-debug/CPP_Program" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/sam/Documents/CompSci/Year2/Semester1/CS23820/Assignment Export/CPP_Program/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/sam/Documents/CompSci/Year2/Semester1/CS23820/Assignment\ Export/CPP_Program/cmake-build-debug/Makefile&quot;  VERBOSE=1 CPP_Program"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/sam/Documents/CompSci/Year2/Semester1/CS23820/Assignment\ Export/CPP_Program/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/sam/Documents/CompSci/Year2/Semester1/CS23820/Assignment\ Export/CPP_Program/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/sam/Documents/CompSci/Year2/Semester1/CS23820/Assignment\ Export/CPP_Program/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CPP_Program/fast">
+				<Option output="/home/sam/Documents/CompSci/Year2/Semester1/CS23820/Assignment Export/CPP_Program/cmake-build-debug/CPP_Program" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/sam/Documents/CompSci/Year2/Semester1/CS23820/Assignment Export/CPP_Program/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/sam/Documents/CompSci/Year2/Semester1/CS23820/Assignment\ Export/CPP_Program/cmake-build-debug/Makefile&quot;  VERBOSE=1 CPP_Program/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/sam/Documents/CompSci/Year2/Semester1/CS23820/Assignment\ Export/CPP_Program/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/sam/Documents/CompSci/Year2/Semester1/CS23820/Assignment\ Export/CPP_Program/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/sam/Documents/CompSci/Year2/Semester1/CS23820/Assignment\ Export/CPP_Program/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/sam/Documents/CompSci/Year2/Semester1/CS23820/Assignment Export/CPP_Program/Location.cpp">
+			<Option target="CPP_Program"/>
+		</Unit>
+		<Unit filename="/home/sam/Documents/CompSci/Year2/Semester1/CS23820/Assignment Export/CPP_Program/Location.h">
+			<Option target="CPP_Program"/>
+		</Unit>
+		<Unit filename="/home/sam/Documents/CompSci/Year2/Semester1/CS23820/Assignment Export/CPP_Program/Mammal.cpp">
+			<Option target="CPP_Program"/>
+		</Unit>
+		<Unit filename="/home/sam/Documents/CompSci/Year2/Semester1/CS23820/Assignment Export/CPP_Program/Mammal.h">
+			<Option target="CPP_Program"/>
+		</Unit>
+		<Unit filename="/home/sam/Documents/CompSci/Year2/Semester1/CS23820/Assignment Export/CPP_Program/main.cpp">
+			<Option target="CPP_Program"/>
+		</Unit>
+		<Unit filename="/home/sam/Documents/CompSci/Year2/Semester1/CS23820/Assignment Export/CPP_Program/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

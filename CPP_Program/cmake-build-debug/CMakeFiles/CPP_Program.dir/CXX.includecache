@@ -1,0 +1,48 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sam/Documents/CompSci/Year2/Semester1/CS23820/Assignment Export/CPP_Program/Location.cpp
+cstdlib
+-
+iostream
+-
+math.h
+-
+Location.h
+/home/sam/Documents/CompSci/Year2/Semester1/CS23820/Assignment Export/CPP_Program/Location.h
+
+/home/sam/Documents/CompSci/Year2/Semester1/CS23820/Assignment Export/CPP_Program/Location.h
+iostream
+-
+
+/home/sam/Documents/CompSci/Year2/Semester1/CS23820/Assignment Export/CPP_Program/Mammal.cpp
+iostream
+-
+Mammal.h
+/home/sam/Documents/CompSci/Year2/Semester1/CS23820/Assignment Export/CPP_Program/Mammal.h
+
+/home/sam/Documents/CompSci/Year2/Semester1/CS23820/Assignment Export/CPP_Program/Mammal.h
+vector
+-
+string
+-
+fstream
+-
+Location.h
+/home/sam/Documents/CompSci/Year2/Semester1/CS23820/Assignment Export/CPP_Program/Location.h
+
+/home/sam/Documents/CompSci/Year2/Semester1/CS23820/Assignment Export/CPP_Program/main.cpp
+iostream
+-
+fstream
+-
+Location.h
+/home/sam/Documents/CompSci/Year2/Semester1/CS23820/Assignment Export/CPP_Program/Location.h
+Mammal.h
+/home/sam/Documents/CompSci/Year2/Semester1/CS23820/Assignment Export/CPP_Program/Mammal.h
+
